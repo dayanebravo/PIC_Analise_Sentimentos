@@ -1,2 +1,2 @@
 # PIC_Analise_Sentimentos
-Analise de sentimentos - reddit
+Analise de sentimentos utilizando rede social Reddit
