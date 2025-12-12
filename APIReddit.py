@@ -127,4 +127,4 @@ with pd.ExcelWriter(nome_arquivo, engine='openpyxl') as writer:
 
     if postsAleatorios:
         df_aleatorios = pd.DataFrame(postsAleatorios)
-        df_aleatorios.to_excel(writer, sheet_name="aleatorios", index=False)
+        df_aleatorios.to_excel(writer, sheet_name="aleatorios", index=False);
